@@ -1,7 +1,8 @@
 # leaflet-challenge
 
 ## Requirements
-```These requirements apply only to "Part 1: Create the Earthquake Visualization" as "Part 2" is optional with no extra points earning.
+```
+These requirements apply only to "Part 1: Create the Earthquake Visualization" as "Part 2" is optional with no extra points earning.
 ```
 
 ## Map (60 points)
