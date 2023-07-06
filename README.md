@@ -1,10 +1,5 @@
 # leaflet-challenge
 
-## Requirements
-```
-These requirements apply only to "Part 1: Create the Earthquake Visualization" as "Part 2" is optional with no extra points earning.
-```
-
 ## Map (60 points)
 ```TileLayer loads without error  
 Connects to geojson API using D3 without error  
